@@ -1,18 +1,55 @@
-# 💫 About Me:
-## 👩‍💻 About Me<br><br>- 🔭 Currently building **AI/ML and Generative AI applications**<br>- 🤖 Exploring **Multi-Agent Systems, RAG, LLMs and Agentic AI**<br>- 🌱 Learning **LangGraph, AI Agents, Cloud & scalable backend systems**<br>- 💻 Working with **Python, FastAPI, SQL, React and Machine Learning**<br>- 🤝 Open to collaborating on **AI/ML, GenAI and Open-Source projects**<br>- 💼 Actively seeking **AI/ML, GenAI & Software Engineering internships**<br>- 💬 Ask me about **Python, RAG, LLMs, FastAPI, Machine Learning & AI Agents**<br>- ⚡ Fun fact: **I love building AI projects that solve practical problems 🚀**
+# Hi, I'm Sakshi Agrawal 👋
 
+### Aspiring AI Engineer | GenAI • RAG • Multi-Agent Systems
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/sakshi-agrawal-088699329) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Sakshi Ajay Agrawal) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sakshiagrawal8818@gmail.com) 
+I'm a B.Tech Artificial Intelligence & Machine Learning student focused on building practical AI applications, backend services, and automation workflows. I enjoy turning ideas into working software and contributing to open-source projects.
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=sakshiagra1903&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=sakshiagra1903&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=sakshiagra1903&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+- 🔭 Building: AI agents, RAG applications, and workflow automation tools
+- 🌱 Learning: Python, FastAPI, LangGraph, LLM evaluation, testing, and deployment
+- 🤝 Interested in: AI/GenAI internships, open-source contributions, and collaborative engineering
+- 📍 Based in India
+
+## 🚀 Featured Projects
+
+### 🤖 Founder AI — Multi-Agent Startup Platform
+A platform exploring specialized AI agents for support, hiring, and feedback, coordinated through an orchestrator.
+
+[View Project](https://github.com/sakshiagra1903/founder-ai-multi-agent-platform)
+
+### ✅ ProofLoop-Mini
+A local-first workflow automation MVP built with Python, FastAPI, and SQLite, with CSV processing and report verification workflows.
+
+[View Project](https://github.com/sakshiagra1903/ProofLoop-Mini)
+
+### 🚦 TraffiSense AI
+A smart traffic management project exploring vehicle detection, tracking, lane analytics, and traffic-control workflows.
+
+[View Project](https://github.com/sakshiagra1903/traffisense-ai)
+
+### 📄 AI Document Intelligence
+A document-focused AI project exploring retrieval-augmented question answering and knowledge workflows.
+
+[View Project](https://github.com/sakshiagra1903/AI-Document-Intelligence)
+
+## 🌱 Open Source Contributions
+
+- Contributed to [LangGraph Starter Kit — PR #30](https://github.com/ac12644/langgraph-starter-kit/pull/30), adding zero-argument graph exports and tests.
+
+## 🛠️ Tech Stack
+
+**Languages:** Python, JavaScript, SQL  
+**AI/ML:** Machine Learning, LLM applications, RAG, multi-agent workflows  
+**Backend:** FastAPI, REST APIs  
+**Data & Storage:** pandas, NumPy, SQLite, PostgreSQL  
+**Tools:** Git, GitHub, Docker, pytest
+
+## 📫 Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/sakshi-agrawal-088699329)
+- [GitHub Repositories](https://github.com/sakshiagra1903?tab=repositories)
 
 ---
-[![](https://komarev.com/ghpvc/?username=sakshiagra1903&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+I aim to build reproducible projects, write clear documentation, and distinguish implemented features from future plans.
+
+Thanks for visiting! Feel free to explore my repositories.
