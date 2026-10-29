@@ -1,55 +1,63 @@
 # Hi, I'm Sakshi Agrawal 👋
 
-### Aspiring AI Engineer | GenAI • RAG • Multi-Agent Systems
+### Aspiring AI Engineer | GenAI | RAG | Multi-Agent Systems
 
-I'm a B.Tech Artificial Intelligence & Machine Learning student focused on building practical AI applications, backend services, and automation workflows. I enjoy turning ideas into working software and contributing to open-source projects.
+I'm a B.Tech Artificial Intelligence & Machine Learning student at MGM University, interested in building practical AI applications and reliable backend systems.
 
-- 🔭 Building: AI agents, RAG applications, and workflow automation tools
-- 🌱 Learning: Python, FastAPI, LangGraph, LLM evaluation, testing, and deployment
-- 🤝 Interested in: AI/GenAI internships, open-source contributions, and collaborative engineering
-- 📍 Based in India
+I work with Python, FastAPI, LangGraph, RAG pipelines, machine learning, and workflow automation. I also contribute to open-source projects and enjoy solving real engineering problems.
+
+- 🔭 **Building:** AI agents, LLM evaluation tools, and automation systems
+- 🌱 **Learning:** Agentic AI, RAG evaluation, testing, and deployment
+- 🤝 **Interested in:** AI/GenAI engineering internships and open-source collaboration
+- 🎓 **Expected graduation:** 2027
+- 📍 **Location:** India
 
 ## 🚀 Featured Projects
 
-### 🤖 Founder AI — Multi-Agent Startup Platform
-A platform exploring specialized AI agents for support, hiring, and feedback, coordinated through an orchestrator.
+### 🧪 AgentProof AI
+A GenAI evaluation and regression-testing platform for assessing AI application outputs and tracking evaluation results.
 
-[View Project](https://github.com/sakshiagra1903/founder-ai-multi-agent-platform)
+**Tech:** Python, FastAPI, SQLite, pytest, GitHub Actions  
+[View Repository](https://github.com/sakshiagra1903/agentproof-ai)
 
-### ✅ ProofLoop-Mini
-A local-first workflow automation MVP built with Python, FastAPI, and SQLite, with CSV processing and report verification workflows.
+### 🤖 Founder AI — Multi-Agent Platform
+A multi-agent application exploring specialized agents for support, hiring, and feedback, coordinated through an orchestrator.
 
-[View Project](https://github.com/sakshiagra1903/ProofLoop-Mini)
+**Tech:** Python, FastAPI, LangGraph, RAG  
+[View Repository](https://github.com/sakshiagra1903/founder-ai-multi-agent-platform)
 
 ### 🚦 TraffiSense AI
-A smart traffic management project exploring vehicle detection, tracking, lane analytics, and traffic-control workflows.
+A computer vision project exploring vehicle detection, tracking, lane analytics, and traffic-monitoring workflows.
 
-[View Project](https://github.com/sakshiagra1903/traffisense-ai)
+**Tech:** Python, OpenCV, YOLO  
+[View Repository](https://github.com/sakshiagra1903/traffisense-ai)
 
-### 📄 AI Document Intelligence
-A document-focused AI project exploring retrieval-augmented question answering and knowledge workflows.
+### ⚙️ AutoFlow AI
+A workflow automation project focused on orchestrating tasks and building structured execution workflows.
 
-[View Project](https://github.com/sakshiagra1903/AI-Document-Intelligence)
+**Tech:** Python, FastAPI, LangGraph  
+[View Repository](https://github.com/sakshiagra1903/autoflow-ai)
 
-## 🌱 Open Source Contributions
+## 🌱 Open Source
 
-- Contributed to [LangGraph Starter Kit — PR #30](https://github.com/ac12644/langgraph-starter-kit/pull/30), adding zero-argument graph exports and tests.
+Contributed to **LangGraph Starter Kit**:
 
-## 🛠️ Tech Stack
+- PR #30 — zero-argument graph exports and tests
+- PR #24 — aborting agent execution when a streaming client disconnects
 
-**Languages:** Python, JavaScript, SQL  
-**AI/ML:** Machine Learning, LLM applications, RAG, multi-agent workflows  
-**Backend:** FastAPI, REST APIs  
-**Data & Storage:** pandas, NumPy, SQLite, PostgreSQL  
-**Tools:** Git, GitHub, Docker, pytest
+[Explore my open-source contributions](https://github.com/ac12644/langgraph-starter-kit/pulls?q=is%3Apr+author%3Asakshiagra1903)
+
+## 🛠️ Technical Skills
+
+- **Languages:** Python, JavaScript, SQL
+- **AI/ML:** Machine Learning, LLM applications, RAG, multi-agent workflows
+- **Backend:** FastAPI, REST APIs
+- **Data:** pandas, NumPy, SQLite, PostgreSQL
+- **Engineering:** Git, GitHub, Docker, pytest, automated testing
 
 ## 📫 Connect With Me
 
-- [LinkedIn](https://www.linkedin.com/in/sakshi-agrawal-088699329)
+- [LinkedIn](https://www.linkedin.com/in/sakshi-agrawal-088699329/)
 - [GitHub Repositories](https://github.com/sakshiagra1903?tab=repositories)
 
----
-
-I aim to build reproducible projects, write clear documentation, and distinguish implemented features from future plans.
-
-Thanks for visiting! Feel free to explore my repositories.
+I aim to build reproducible projects, test my implementations, document technical decisions, and clearly distinguish implemented features from planned work.
