@@ -15,37 +15,50 @@ I work with Python, FastAPI, LangGraph, RAG pipelines, machine learning, and wor
 ## 🚀 Featured Projects
 
 ### 🧪 AgentProof AI
-A GenAI evaluation and regression-testing platform for assessing AI application outputs and tracking evaluation results.
 
-**Tech:** Python, FastAPI, SQLite, pytest, GitHub Actions  
+A local-first GenAI evaluation and regression-testing platform for assessing AI application outputs and tracking evaluation results.
+
+**Tech:** Python, FastAPI, SQLite, pytest, GitHub Actions
+
+**Testing:** 34 tests passed. Includes citation-aware evaluation and CI quality gates.
+
 [View Repository](https://github.com/sakshiagra1903/agentproof-ai)
 
 ### 🤖 Founder AI — Multi-Agent Platform
+
 A multi-agent application exploring specialized agents for support, hiring, and feedback, coordinated through an orchestrator.
 
-**Tech:** Python, FastAPI, LangGraph, RAG  
+**Tech:** Python, FastAPI, LangGraph, RAG
+
 [View Repository](https://github.com/sakshiagra1903/founder-ai-multi-agent-platform)
 
 ### 🚦 TraffiSense AI
+
 A computer vision project exploring vehicle detection, tracking, lane analytics, and traffic-monitoring workflows.
 
-**Tech:** Python, OpenCV, YOLO  
+**Tech:** Python, OpenCV, YOLO
+
 [View Repository](https://github.com/sakshiagra1903/traffisense-ai)
 
 ### ⚙️ AutoFlow AI
+
 A workflow automation project focused on orchestrating tasks and building structured execution workflows.
 
-**Tech:** Python, FastAPI, LangGraph  
+**Tech:** Python, FastAPI, LangGraph
+
 [View Repository](https://github.com/sakshiagra1903/autoflow-ai)
 
-## 🌱 Open Source
+## 🌱 Open Source Contributions
 
-Contributed to **LangGraph Starter Kit**:
+Contributed to **[LangGraph Starter Kit](https://github.com/ac12644/langgraph-starter-kit)** with five merged pull requests:
 
-- PR #30 — zero-argument graph exports and tests
-- PR #24 — aborting agent execution when a streaming client disconnects
+- [PR #30](https://github.com/ac12644/langgraph-starter-kit/pull/30) — Added zero-argument graph exports for LangGraph configuration.
+- [PR #31](https://github.com/ac12644/langgraph-starter-kit/pull/31) — Aborted agent execution when a streaming client disconnects.
+- [PR #43](https://github.com/ac12644/langgraph-starter-kit/pull/43) — Added real-socket coverage for streaming client disconnect behavior.
+- [PR #44](https://github.com/ac12644/langgraph-starter-kit/pull/44) — Fixed handling of empty text chunks in streaming responses.
+- [PR #45](https://github.com/ac12644/langgraph-starter-kit/pull/45) — Used `providerStrategy` for the analyst app on Groq.
 
-[Explore my open-source contributions](https://github.com/ac12644/langgraph-starter-kit/pulls?q=is%3Apr+author%3Asakshiagra1903)
+[Explore all my contributions](https://github.com/ac12644/langgraph-starter-kit/pulls?q=is%3Apr+author%3Asakshiagra1903)
 
 ## 🛠️ Technical Skills
 
