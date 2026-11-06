@@ -70,6 +70,13 @@ Contributed to **[LangGraph Starter Kit](https://github.com/ac12644/langgraph-st
 - **Backend:** FastAPI, REST APIs
 - **Data:** pandas, NumPy, SQLite, PostgreSQL
 - **Engineering:** Git, GitHub, Docker, pytest, automated testing
+ ## 🏆 Achievements & Recognition
+
+- 🌟 **XERJ Corpus Hub Contributor** — Selected as a contributor to the XERJ Corpus Hub for my open-source work in `ac12644/langgraph-starter-kit`.
+- 🚀 **Open Source Contributor** — Contributed 5 merged pull requests to LangGraph Starter Kit.
+- 🦈 **GitHub Pull Shark** — Earned for merging multiple pull requests.
+
+**Recognition:** [XERJ Contributor Profile](https://hub.xerj.org/contributors/sakshiagra1903)
 
 ## 📫 Connect With Me
 
