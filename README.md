@@ -54,11 +54,14 @@ Contributed to **[LangGraph Starter Kit](https://github.com/ac12644/langgraph-st
 
 - [PR #30](https://github.com/ac12644/langgraph-starter-kit/pull/30) — Added zero-argument graph exports for LangGraph configuration.
 - [PR #31](https://github.com/ac12644/langgraph-starter-kit/pull/31) — Aborted agent execution when a streaming client disconnects.
-- [PR #43](https://github.com/ac12644/langgraph-starter-kit/pull/43) — Added real-socket coverage for streaming client disconnect behavior.
+- Contributed to [`ac12644/langgraph-starter-kit`](https://github.com/ac12644/langgraph-starter-kit).
+- **PR:** [#43 – Test `/stream` client disconnect with a real socket](https://github.com/ac12644/langgraph-starter-kit/pull/43)
+- **Contribution:** Added real socket-based testing for client disconnect handling in streaming endpoints.
+- **Focus:** TypeScript, Fastify, Streaming, Socket Testing.
+  **Recognition:** Featured on the [XERJ Corpus Hub](https://hub.xerj.org/contributors/sakshiagra1903).
 - [PR #44](https://github.com/ac12644/langgraph-starter-kit/pull/44) — Fixed handling of empty text chunks in streaming responses.
 - [PR #45](https://github.com/ac12644/langgraph-starter-kit/pull/45) — Used `providerStrategy` for the analyst app on Groq.
-
-[Explore all my contributions](https://github.com/ac12644/langgraph-starter-kit/pulls?q=is%3Apr+author%3Asakshiagra1903)
+-[Explore all my contributions](https://github.com/ac12644/langgraph-starter-kit/pulls?q=is%3Apr+author%3Asakshiagra1903)
 
 ## 🛠️ Technical Skills
 
