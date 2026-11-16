@@ -1,86 +1,108 @@
 # Hi, I'm Sakshi Agrawal 👋
 
-### Aspiring AI Engineer | GenAI | RAG | Multi-Agent Systems
+### Aspiring AI Engineer | GenAI | RAG | Agentic AI | Open Source
 
-I'm a B.Tech Artificial Intelligence & Machine Learning student at MGM University, interested in building practical AI applications and reliable backend systems.
+I'm a B.Tech Artificial Intelligence & Machine Learning student at MGM University, focused on building practical AI systems, LLM applications, and reliable backend solutions.
 
-I work with Python, FastAPI, LangGraph, RAG pipelines, machine learning, and workflow automation. I also contribute to open-source projects and enjoy solving real engineering problems.
+I enjoy solving real engineering problems, contributing to open-source projects, and building reproducible AI applications.
 
-- 🔭 **Building:** AI agents, LLM evaluation tools, and automation systems
-- 🌱 **Learning:** Agentic AI, RAG evaluation, testing, and deployment
-- 🤝 **Interested in:** AI/GenAI engineering internships and open-source collaboration
-- 🎓 **Expected graduation:** 2027
-- 📍 **Location:** India
+- 🔭 Currently building AI-powered developer tools and agentic systems
+- 🌱 Exploring RAG evaluation, LangGraph, LLM testing, and AI deployment
+- 🤝 Open to AI/GenAI engineering internships and open-source collaboration
+- 🎓 B.Tech AI & ML — Expected 2027
+
+---
 
 ## 🚀 Featured Projects
 
-### 🧪 AgentProof AI
+### 1. AgentProof AI
+**GenAI Evaluation & Regression Testing Platform**
 
-A local-first GenAI evaluation and regression-testing platform for assessing AI application outputs and tracking evaluation results.
+A local-first platform for evaluating AI application outputs, citation support, and regression performance.
 
-**Tech:** Python, FastAPI, SQLite, pytest, GitHub Actions
+- Citation-aware evaluation
+- Automated regression testing
+- FastAPI backend and CI integration
+- 34 passing tests (documented test result)
 
-**Testing:** 34 tests passed. Includes citation-aware evaluation and CI quality gates.
+**Stack:** Python · FastAPI · SQLite · pytest · GitHub Actions
 
-[View Repository](https://github.com/sakshiagra1903/agentproof-ai)
+[Repository →](https://github.com/sakshiagra1903/agentproof-ai)
 
-### 🤖 Founder AI — Multi-Agent Platform
+### 2. RepoPilot
+**AI-Powered GitHub Repository Intelligence**
 
-A multi-agent application exploring specialized agents for support, hiring, and feedback, coordinated through an orchestrator.
+A developer tool for repository analysis, source-grounded retrieval, issue triage, test drafting, and improvement suggestions.
 
-**Tech:** Python, FastAPI, LangGraph, RAG
+**Stack:** Python · FastAPI · React · Ollama · SQLAlchemy
 
-[View Repository](https://github.com/sakshiagra1903/founder-ai-multi-agent-platform)
+[Repository →](https://github.com/sakshiagra1903/RepoPilot)
 
-### 🚦 TraffiSense AI
+### 3. SupplyShield AI
+**Supply Chain Early-Warning & Impact Intelligence**
 
-A computer vision project exploring vehicle detection, tracking, lane analytics, and traffic-monitoring workflows.
+An AI/ML research platform for import anomaly detection, partner concentration analysis, and evidence-aware investigation workflows.
 
-**Tech:** Python, OpenCV, YOLO
+**Stack:** Python · FastAPI · Scikit-learn · NetworkX · Pandas
 
-[View Repository](https://github.com/sakshiagra1903/traffisense-ai)
+[Repository →](https://github.com/sakshiagra1903/autoflow-ai)
 
-### ⚙️ AutoFlow AI
+### 4. TraffiSense AI
+**Real-Time Smart Traffic Management System**
 
-A workflow automation project focused on orchestrating tasks and building structured execution workflows.
+A computer vision-based traffic monitoring platform with vehicle detection, tracking, lane analytics, anomaly detection, and adaptive signal control.
 
-**Tech:** Python, FastAPI, LangGraph
+**Stack:** Python · YOLOv8 · OpenCV · DeepSORT · Flask
 
-[View Repository](https://github.com/sakshiagra1903/autoflow-ai)
+[Repository →](https://github.com/sakshiagra1903/traffisense-ai)
 
-## 🌱 Open Source Contributions
+---
 
-Contributed to **[LangGraph Starter Kit](https://github.com/ac12644/langgraph-starter-kit)** with five merged pull requests:
+## 🌍 Open Source Contributions
 
-- [PR #30](https://github.com/ac12644/langgraph-starter-kit/pull/30) — Added zero-argument graph exports for LangGraph configuration.
-- [PR #31](https://github.com/ac12644/langgraph-starter-kit/pull/31) — Aborted agent execution when a streaming client disconnects.
-- Contributed to [`ac12644/langgraph-starter-kit`](https://github.com/ac12644/langgraph-starter-kit).
-- **PR:** [#43 – Test `/stream` client disconnect with a real socket](https://github.com/ac12644/langgraph-starter-kit/pull/43)
-- **Contribution:** Added real socket-based testing for client disconnect handling in streaming endpoints.
-- **Focus:** TypeScript, Fastify, Streaming, Socket Testing.
-  **Recognition:** Featured on the [XERJ Corpus Hub](https://hub.xerj.org/contributors/sakshiagra1903).
-- [PR #44](https://github.com/ac12644/langgraph-starter-kit/pull/44) — Fixed handling of empty text chunks in streaming responses.
-- [PR #45](https://github.com/ac12644/langgraph-starter-kit/pull/45) — Used `providerStrategy` for the analyst app on Groq.
--[Explore all my contributions](https://github.com/ac12644/langgraph-starter-kit/pulls?q=is%3Apr+author%3Asakshiagra1903)
+**Contributor — LangGraph Starter Kit**
+
+Five merged pull requests demonstrating contributions to an existing TypeScript/Fastify codebase.
+
+| PR | Contribution |
+|---|---|
+| [#30](https://github.com/ac12644/langgraph-starter-kit/pull/30) | Zero-argument graph exports |
+| [#31](https://github.com/ac12644/langgraph-starter-kit/pull/31) | Streaming client disconnect handling |
+| [#43](https://github.com/ac12644/langgraph-starter-kit/pull/43) | Real socket-based disconnect testing |
+| [#44](https://github.com/ac12644/langgraph-starter-kit/pull/44) | Empty text chunk handling |
+| [#45](https://github.com/ac12644/langgraph-starter-kit/pull/45) | Groq provider strategy |
+
+[Explore all my contributions →](https://github.com/ac12644/langgraph-starter-kit/pulls?q=is%3Apr+author%3Asakshiagra1903)
+
+---
 
 ## 🛠️ Technical Skills
 
-- **Languages:** Python, JavaScript, SQL
-- **AI/ML:** Machine Learning, LLM applications, RAG, multi-agent workflows
-- **Backend:** FastAPI, REST APIs
-- **Data:** pandas, NumPy, SQLite, PostgreSQL
-- **Engineering:** Git, GitHub, Docker, pytest, automated testing
- ## 🏆 Achievements & Recognition
+**Languages:** Python, JavaScript, TypeScript, SQL
 
-- 🌟 **XERJ Corpus Hub Contributor** — Selected as a contributor to the XERJ Corpus Hub for my open-source work in `ac12644/langgraph-starter-kit`.
-- 🚀 **Open Source Contributor** — Contributed 5 merged pull requests to LangGraph Starter Kit.
-- 🦈 **GitHub Pull Shark** — Earned for merging multiple pull requests.
+**AI & GenAI:** Machine Learning, LLM Applications, RAG, LangGraph, Multi-Agent Systems
 
-**Recognition:** [XERJ Contributor Profile](https://hub.xerj.org/contributors/sakshiagra1903)
+**Backend:** FastAPI, REST APIs, Flask
 
-## 📫 Connect With Me
+**Data & Databases:** Pandas, NumPy, SQLite, PostgreSQL
+
+**Engineering:** Git, GitHub, Docker, pytest, GitHub Actions
+
+---
+
+## 🏆 Achievements
+
+- 🦈 GitHub Pull Shark
+- 🚀 Five merged open-source pull requests
+- 🌟 XERJ Corpus Hub contributor recognition
+
+[View XERJ contributor profile →](https://hub.xerj.org/contributors/sakshiagra1903)
+
+---
+
+## 📫 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/sakshi-agrawal-088699329/)
-- [GitHub Repositories](https://github.com/sakshiagra1903?tab=repositories)
+- [GitHub](https://github.com/sakshiagra1903)
 
-I aim to build reproducible projects, test my implementations, document technical decisions, and clearly distinguish implemented features from planned work.
+*Building practical AI systems, contributing to open source, and learning through real engineering problems.*
